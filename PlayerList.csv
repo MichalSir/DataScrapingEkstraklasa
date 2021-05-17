@@ -1,0 +1,470 @@
+id;imie;nazwisko;Obecny klub;Urodzony w;Data urodzenia;Pozycja;Wzrost;Noga;Waga
+/zawodnik-a-boruc,724;Artur;Boruc;Legia Warszawa;Siedlce;1980-02-20;Bramkarz;193;Prawa;87
+/zawodnik-w-muzyk,491228;Wojciech;Muzyk;Legia Warszawa;Suwałki;1998-11-07;Bramkarz;195;Brak;83
+/zawodnik-r-cierzniak,12549;Radosław;Cierzniak;Legia Warszawa;Szamocin;1983-04-24;Bramkarz;183;Prawa;81
+Artur Boruc;;;;;;;;;
+/zawodnik-c-miszta,509793;Cezary;Miszta;Legia Warszawa;Łuków;2001-10-30;Bramkarz;192;Brak;
+/zawodnik-a-jedrzejczyk,12609;Artur;Jędrzejczyk;Legia Warszawa;Dębica;1987-11-04;Obrońca;189;Prawa;78
+/zawodnik-w-remy,66123;William;Rémy;Legia Warszawa;Courbevoie;1991-04-04;Obrońca;184;Prawa;79
+/zawodnik-f-mladenovic,161525;Filip;Mladenović;Legia Warszawa;Čačak;1991-08-15;Obrońca;180;Lewa;65
+/zawodnik-i-lewczuk,42500;Igor;Lewczuk;Legia Warszawa;Białystok;1985-05-30;Obrońca;189;Prawa;88
+/zawodnik-m-holownia,348385;Mateusz;Hołownia;Legia Warszawa;Biała Podlaska;1998-05-06;Obrońca;184;Lewa;70
+/zawodnik-m-wieteska,273914;Mateusz;Wieteska;Legia Warszawa;Warszawa;1997-02-11;Obrońca;187;Prawa;77
+/zawodnik-j-juranovic,396624;Josip;Juranović;Legia Warszawa;Zagreb;1995-08-16;Obrońca;173;Prawa;69
+/zawodnik-m-ve%C5%A1ovic,82988;Marko;Vešović;Legia Warszawa;Podgorica;1991-08-28;Obrońca;177;Prawa;70
+/zawodnik-inaki-astiz,18472;Iñaki;Astiz;Legia Warszawa;Pampeluna;1983-11-05;Obrońca;184;Prawa;77
+/zawodnik-a-shabanov,256373;Artem;Shabanov;Legia Warszawa;Kyiv;1992-03-07;Obrońca;189;Lewa;79
+Josip Juranovic;;;;;;;;;
+/zawodnik-b-slisz,410049;Bartosz;Slisz;Legia Warszawa;Rybnik;1999-03-29;Pomocnik;179;Brak;70
+/zawodnik-luquinhas,452380;Lucas;Lima;Legia Warszawa;Brasília;1996-09-28;Pomocnik;169;Prawa;60
+/zawodnik-b-kapustka,302731;Bartosz;Kapustka;Legia Warszawa;Tarnów;1996-12-23;Pomocnik;179;Prawa;62
+/zawodnik-d-antolic,83991;Domagoj;Antolić;Legia Warszawa;Zagreb;1990-06-30;Pomocnik;180;Prawa;73
+/zawodnik-andre-martins,138473;André;Renato;Legia Warszawa;Santa Maria da Feira;1990-01-21;Pomocnik;169;Prawa;63
+/zawodnik-v-gvilia,360199;Valerian;Gvilia;Legia Warszawa;Zugdidi;1994-05-24;Pomocnik;182;Prawa;79
+/zawodnik-p-wszolek,157472;Paweł;Marek;Legia Warszawa;Tczew;1992-04-30;Pomocnik;186;Prawa;77
+P. Wszołek;;;;;;;;;
+/zawodnik-k-skibicki,565226;Kacper;Skibicki;Legia Warszawa;Chełmno;2001-10-11;Pomocnik;174;Obunożny;64
+Bartosz Kapustka;;;;;;;;;
+Luquinhas;;;;;;;;;
+/zawodnik-m-cholewiak,197238;Mateusz;Cholewiak;Legia Warszawa;Krosno;1990-02-05;Pomocnik;184;Lewa;73
+/zawodnik-r-cielemecki,634383;Radosław;Cielemęcki;Legia Warszawa;Świebodzice;2003-02-19;Pomocnik;173;Brak;70
+/zawodnik-t-pekhart,2947;Tomáš;Pekhart;Legia Warszawa;Sušici;1989-05-26;Napastnik;194;Prawa;91
+/zawodnik-j-kante,260136;José;Kanté;Legia Warszawa;Sabadell;1990-09-27;Napastnik;184;Prawa;76
+/zawodnik-rafael-lopes,152884;Rafael;Guimarães;Legia Warszawa;Esposende;1991-07-28;Napastnik;185;Prawa;79
+/zawodnik-k-kostorz,485378;Kacper;Kostorz;Legia Warszawa;;1999-08-21;Napastnik;188;Obunożny;
+/zawodnik-v-sanogo,297182;Vamara;Sanogo;Legia Warszawa;Saint-Denis;1995-04-22;Napastnik;186;Lewa;85
+S. Włodarczyk;;;;;;;;;
+/zawodnik-b-pindroch,159443;Branislav;Pindroch;Raków Częstochowa;;1991-10-30;Bramkarz;;Brak;
+/zawodnik-t-petra%C5%A1ek,242595;Tomáš;Petrášek;Raków Częstochowa;;1992-03-02;Obrońca;199;Prawa;
+/zawodnik-k-piatkowski,582189;Kamil;Piątkowski;Raków Częstochowa;;2000-06-21;Obrońca;191;Brak;
+/zawodnik-a-niewulis,86272;Andrzej;Niewulis;Raków Częstochowa;Suwalki;1989-04-21;Obrońca;187;Prawa;77
+/zawodnik-j-jach,344149;Jarosław;Jach;Raków Częstochowa;Bielawa;1994-02-17;Obrońca;192;Lewa;78
+/zawodnik-z-arsenic,302849;Zoran;Arsenić;Raków Częstochowa;Osijek;1994-06-02;Obrońca;186;Prawa;75
+/zawodnik-d-mikolajewski,450198;Daniel;Mikołajewski;Raków Częstochowa;Bielsko-Biała;1999-08-25;Obrońca;188;Prawa;83
+/zawodnik-p-kun,255006;Patryk;Kun;Raków Częstochowa;;1995-04-20;Pomocnik;165;Obunożny;54
+/zawodnik-i-sapala,409990;Igor;Sapała;Raków Częstochowa;;1995-10-11;Pomocnik;184;Brak;77
+/zawodnik-d-tijani%C4%8D,316269;David;Tijanič;Raków Częstochowa;;1997-07-16;Pomocnik;;Brak;
+/zawodnik-p-schwarz,204948;Petr;Schwarz;Raków Częstochowa;Broumov;1991-11-12;Pomocnik;174;Brak;70
+/zawodnik-f-tudor,401243;Fran;Tudor;Raków Częstochowa;Zagreb;1995-09-27;Pomocnik;173;Prawa;68
+/zawodnik-m-cebula,266315;Marcin;Cebula;Raków Częstochowa;Staszów;1995-12-06;Pomocnik;177;Brak;65
+/zawodnik-d-bartl,77887;Daniel;Bartl;Raków Częstochowa;Ostrava;1989-07-05;Pomocnik;181;Brak;74
+/zawodnik-ivi-lopez,285955;Iván;López;Raków Częstochowa;Madrid;1994-06-29;Pomocnik;174;Prawa;70
+/zawodnik-p-malinowski,12513;Piotr;Malinowski;Raków Częstochowa;Częstochowa;1984-03-24;Pomocnik;170;Brak;66
+/zawodnik-g-papanikolaou,470737;Giannis;Papanikolaou;Raków Częstochowa;Marousi;1998-11-18;Pomocnik;182;Prawa;73
+B. Lederman;;;;;;;;;
+/zawodnik-m-wdowiak,302733;Mateusz;Wdowiak;Raków Częstochowa;Kraków;1996-08-28;Pomocnik;174;Prawa;60
+/zawodnik-m-szczepanski,423937;Miłosz;Szczepański;Raków Częstochowa;Nowy Sącz;1998-03-22;Pomocnik;168;Prawa;
+/zawodnik-m-poletanovic,217502;Marko;Poletanović;Raków Częstochowa;Novi Sad;1993-07-20;Pomocnik;187;Prawa;75
+M. Kaczmarek;;;;;;;;;
+/zawodnik-v-gutkovskis,196260;Vladislavs;Gutkovskis;Raków Częstochowa;Rīga;1995-04-02;Napastnik;188;Lewa;86
+/zawodnik-d-szelagowski,610765;Daniel;Szelągowski;Raków Częstochowa;;2002-09-02;Napastnik;;Prawa;
+/zawodnik-j-arak,353419;Jakub;Arak;Raków Częstochowa;Warszawa;1995-04-02;Napastnik;183;Prawa;78
+M. Litwa;;;;;;;;;
+I. Lopez;;;;;;;;;
+/zawodnik-p-oziebala,12854;Przemyslaw;Oziębała;Raków Częstochowa;Koziegłowy;1986-08-24;Napastnik;180;Brak;77
+/zawodnik-d-stipica,85768;Dante;Stipica;Pogoń Szczecin;Split;1991-05-30;Bramkarz;187;Brak;75
+/zawodnik-j-bursztyn,488977;Jakub;Bursztyn;Pogoń Szczecin;Gorzów Wielkopolski;1998-03-25;Bramkarz;186;Brak;85
+/zawodnik-b-zech,83329;Benedikt;Zech;Pogoń Szczecin;Feldkirch;1990-11-03;Obrońca;186;Prawa;73
+/zawodnik-k-triantafyllopoulos,154022;Konstantinos;Triantafyllopoulos;Pogoń Szczecin;Derveni;1993-04-03;Obrońca;186;Prawa;81
+/zawodnik-h-matynia,349705;Hubert;Matynia;Pogoń Szczecin;Września;1995-11-04;Obrońca;181;Brak;69
+/zawodnik-d-stec,335752;David;Stec;Pogoń Szczecin;Wien;1994-05-10;Obrońca;179;Prawa;70
+/zawodnik-m-malec,360141;Mariusz;Malec;Pogoń Szczecin;Chorzów;1995-04-04;Obrońca;189;Brak;78
+/zawodnik-j-bartkowski,158057;Jakub;Bartkowski;Pogoń Szczecin;Łódź;1991-11-07;Obrońca;182;Prawa;74
+L. Mata;;;;;;;;;
+/zawodnik-luis-mata,290255;Luís;Carlos;Pogoń Szczecin;Porto;1997-07-06;Obrońca;180;Lewa;66
+K. Triantafylopoulos;;;;;;;;;
+/zawodnik-i-lasicki,213899;Igor;Łasicki;Pogoń Szczecin;Wałbrzych;1995-06-26;Obrońca;184;Prawa;75
+/zawodnik-m-kucharczyk,134384;Michał;Kucharczyk;Pogoń Szczecin;Warszawa;1991-03-20;Pomocnik;179;Prawa;78
+/zawodnik-s-kowalczyk,472891;Sebastian;Kowalczyk;Pogoń Szczecin;Szczecin;1998-08-22;Pomocnik;169;Brak;54
+/zawodnik-d-dabrowski,123876;Damian;Dąbrowski;Pogoń Szczecin;Kamienna Góra;1992-08-27;Pomocnik;178;Prawa;73
+/zawodnik-k-drygas,135459;Kamil;Drygas;Pogoń Szczecin;Kępno;1991-09-07;Pomocnik;184;Brak;72
+/zawodnik-k-smolinski,610524;Kacper;Smolinski;Pogoń Szczecin;Police;2001-02-07;Pomocnik;174;Brak;
+/zawodnik-s-hostikka,361055;Santeri;Hostikka;Pogoń Szczecin;Järvenpää;1997-09-30;Pomocnik;183;Brak;
+M. Fornalczyk;;;;;;;;;
+/zawodnik-k-kozlowski,578532;Kacper;Kozłowski;Pogoń Szczecin;Koszalin;2003-10-16;Pomocnik;177;Brak;
+K. Smoliński;;;;;;;;;
+/zawodnik-r-kurzawa,257338;Rafał;Maciej;Pogoń Szczecin;Wieruszów;1993-01-29;Pomocnik;182;Lewa;73
+/zawodnik-tomas-podstawski,161778;Tomas;Martins;Pogoń Szczecin;Porto;1995-01-30;Pomocnik;182;Prawa;76
+/zawodnik-a-gorgon,35793;Alexander;Gorgon;Pogoń Szczecin;Wien;1988-10-28;Napastnik;185;Prawa;81
+/zawodnik-a-fraczczak,43360;Adam;Fraczczak;Pogoń Szczecin;Kołobrzeg;1987-08-07;Napastnik;180;Brak;76
+/zawodnik-p-cibicki,286644;Pawel;Cibicki;Pogoń Szczecin;Malmö;1994-01-09;Napastnik;182;Lewa;66
+/zawodnik-a-benedyczak,468254;Adrian;Benedyczak;Pogoń Szczecin;Kamień Pomorski;2000-11-24;Napastnik;190;Obunożny;
+/zawodnik-h-turski,578545;Hubert;Turski;Pogoń Szczecin;;2003-01-31;Napastnik;;Brak;
+/zawodnik-m-wedrychowski,578549;Marcel;Wędrychowski;Pogoń Szczecin;Szczecin;2002-01-13;Napastnik;171;Brak;
+/zawodnik-l-zahovi%C4%8D,242808;Luka;Zahovič;Pogoń Szczecin;Guimarães;1995-11-15;Napastnik;177;Prawa;63
+/zawodnik-f-plach,195734;František;Plach;Piast Gliwice;Žilina;1992-03-08;Bramkarz;192;Brak;80
+/zawodnik-j-szmatula,42589;Jakub;Szmatula;Piast Gliwice;Poznań;1981-03-22;Bramkarz;188;Prawa;81
+/zawodnik-k-szymanski,260742;Karol;Szymański;Piast Gliwice;Szczecinek;1993-06-25;Bramkarz;191;Prawa;88
+/zawodnik-j-czerwinski,134371;Jakub;Czerwiński;Piast Gliwice;Krynica Zdrój;1991-08-06;Obrońca;183;Prawa;75
+/zawodnik-t-huk,154542;Tomas;Huk;Piast Gliwice;Kosice;1994-12-22;Obrońca;183;Prawa;72
+/zawodnik-j-holubek,196051;Jakub;Holubek;Piast Gliwice;Trencin;1991-01-12;Obrońca;181;Lewa;77
+/zawodnik-m-konczkowski,268003;Martin;Konczkowski;Piast Gliwice;Ruda Śląska;1993-09-14;Obrońca;181;Prawa;74
+/zawodnik-b-rymaniak,86583;Batosz;Rymaniak;Piast Gliwice;Gostyń;1989-11-13;Obrońca;189;Prawa;80
+/zawodnik-p-malarczyk,86493;Piotr;Kamil;Piast Gliwice;Kielce;1991-08-01;Obrońca;189;Prawa;80
+P. Malarczyk;;;;;;;;;
+/zawodnik-r-borkala,557603;Remigiusz;Borkała;Piast Gliwice;Cieszyn;1999-02-28;Obrońca;176;Brak;72
+B. Rymaniak;;;;;;;;;
+/zawodnik-t-mokwa,260801;Tomasz;Mokwa;Piast Gliwice;Słupsk;1993-02-10;Obrońca;181;Prawa;76
+/zawodnik-p-lipski,302569;Patryk;Lipski;Piast Gliwice;Szczecin;1994-06-12;Pomocnik;185;Prawa;79
+/zawodnik-p-sokolowski,334771;Patryk;Sokołowski;Piast Gliwice;Warszawa;1994-09-25;Pomocnik;181;Brak;73
+/zawodnik-k-vida,235267;Kristopher;Vida;Piast Gliwice;Budapest;1995-06-23;Pomocnik;177;Prawa;76
+/zawodnik-t-jodlowiec,12473;Tomasz;Jodłowiec;Piast Gliwice;Żywiec;1985-09-08;Pomocnik;189;Prawa;91
+/zawodnik-s-milewski,405478;Sebastian;Milewski;Piast Gliwice;Mława;1998-04-30;Pomocnik;175;Brak;76
+/zawodnik-a-pyrka,557409;Arkadiusz;Pyrka;Piast Gliwice;;2002-09-20;Pomocnik;;Brak;
+/zawodnik-gerard-badia,161843;Gerard;Badía;Piast Gliwice;Horta de Sant Joan;1989-10-18;Pomocnik;175;Lewa;72
+/zawodnik-tiago-alves-,418606;Tiago;Alexandre;Piast Gliwice;Coimbra;1996-06-19;Pomocnik;177;Prawa;70
+T. Alves;;;;;;;;;
+J. Ajenjo Hyjek;;;;;;;;;
+J. Hyjek;;;;;;;;;
+/zawodnik-m-chrapek,84189;Michał;Chrapek;Piast Gliwice;Jaworzno;1992-04-03;Pomocnik;175;Prawa;68
+/zawodnik-m-rakowiecki,616349;Michał;Rakowiecki;Piast Gliwice;;2001-02-18;Pomocnik;;Prawa;
+/zawodnik-d-steczyk,453504;Dominik;Steczyk;Piast Gliwice;Katowice;1999-05-04;Napastnik;185;Obunożny;75
+/zawodnik-m-zyro,108398;Michał;Żyro;Piast Gliwice;Warszawa;1992-09-20;Napastnik;187;Lewa;86
+/zawodnik-j-swierczok,197084;Jakub;Świerczok;Piast Gliwice;Tychy;1992-12-28;Napastnik;179;Prawa;75
+/zawodnik-k-stanek,557435;Karol;Stanek;Piast Gliwice;Proszowice;1999-10-03;Napastnik;186;Prawa;77
+/zawodnik-d-kuciak,43189;Dušan;Kuciak;Lechia Gdańsk;Žilina;1985-05-21;Bramkarz;194;Prawa;87
+/zawodnik-z-alomerovic,85093;Zlatan;Alomerovic;Lechia Gdańsk;Priboj;1991-06-15;Bramkarz;187;Prawa;85
+/zawodnik-b-kopacz,137402;Bartosz;Kopacz;Lechia Gdańsk;Jastrzębie Zdrój;1992-05-21;Obrońca;188;Prawa;85
+/zawodnik-k-fila,475040;Karol;Fila;Lechia Gdańsk;Gdańsk;1998-06-13;Obrońca;180;Prawa;72
+/zawodnik-r-pietrzak,103342;Rafał;Pietrzak;Lechia Gdańsk;Sosnowiec;1992-01-30;Obrońca;176;Obunożny;69
+/zawodnik-m-nalepa,196354;Michał;Nalepa;Lechia Gdańsk;;1993-01-22;Obrońca;189;Prawa;80
+/zawodnik-conrado,485346;Conrado;Buchanelli;Lechia Gdańsk;Ajuricaba;1997-04-03;Obrońca;;Brak;
+/zawodnik-m-malo%C4%8Da,36583;Mario;Maloča;Lechia Gdańsk;Zagreb;1989-05-04;Obrońca;190;Prawa;83
+/zawodnik-k-tobers,461831;Kristers;Tobers;Lechia Gdańsk;Dobele;2000-12-13;Obrońca;;Brak;
+/zawodnik-%C5%BD-udovi%C4%8Dic,144998;Žarko;Udovičić;Lechia Gdańsk;Užice;1987-08-31;Obrońca;185;Prawa;72
+/zawodnik-j-kubicki,344145;Jarosław;Kubicki;Lechia Gdańsk;;1995-08-07;Pomocnik;179;Prawa;69
+/zawodnik-t-makowski,427524;Tomasz;Makowski;Lechia Gdańsk;Zgierz;1999-07-19;Pomocnik;178;Prawa;72
+/zawodnik-m-gajos,151471;Maciej;Gajos;Lechia Gdańsk;;1991-03-19;Pomocnik;174;Prawa;65
+/zawodnik-k-saief,172140;Kenny;Saief;Lechia Gdańsk;;1993-12-17;Pomocnik;176;Obunożny;72
+J. Kałuziński;;;;;;;;;
+/zawodnik-e-vikri,485072;Egy;Maulana;Lechia Gdańsk;Medan;2000-07-07;Pomocnik;168;Lewa;65
+/zawodnik-e-kryeziu,466626;Egzon;Kryeziu;Lechia Gdańsk;;2000-04-25;Pomocnik;;Brak;
+/zawodnik-m-zukowski,517233;Mateusz;Żukowski;Lechia Gdańsk;Lębork;2001-11-23;Pomocnik;185;Brak;82
+/zawodnik-j-bieganski,550766;Jan;Biegański;Lechia Gdańsk;Gliwice;2002-12-04;Pomocnik;183;Brak;80
+/zawodnik-j-ceesay,446544;Joseph;Ceesay;Lechia Gdańsk;;1998-06-03;Pomocnik;178;Brak;69
+Conrado;;;;;;;;;
+/zawodnik-omran-haydary,494055;Omran;Haydary;Lechia Gdańsk;Heerlen;1998-01-13;Napastnik;171;Prawa;58
+/zawodnik-flavio-paix%C3%A3o,62590;Flávio;Emanuel;Lechia Gdańsk;Sesimbra;1984-09-19;Napastnik;184;Brak;75
+/zawodnik-l-zwolinski,235547;Łukasz;Zwoliński;Lechia Gdańsk;Szczecin;1993-02-24;Napastnik;184;Prawa;80
+/zawodnik-w-golla,162027;Wojciech;Golla;Śląsk Wrocław;Złotów;1992-01-12;Obrońca;186;Prawa;80
+/zawodnik-israel-puerto,154763;Israel;Puerto;Śląsk Wrocław;El Viso del Alcor;1993-06-15;Obrońca;187;Prawa;75
+/zawodnik-d-%C5%A0tiglec,85610;Dino;Štiglec;Śląsk Wrocław;Zagreb;1990-10-03;Obrońca;188;Lewa;82
+/zawodnik-p-janasik,491254;Patryk;Janasik;Śląsk Wrocław;;1997-08-25;Obrońca;;Brak;
+L. Bejger;;;;;;;;;
+/zawodnik-m-wilusz,65066;Maciej;Wilusz;Śląsk Wrocław;Wrocław;1988-09-25;Obrońca;188;Obunożny;85
+/zawodnik-r-pich,83962;Robert;Pich;Śląsk Wrocław;Svidník;1988-11-12;Pomocnik;173;Obunożny;68
+/zawodnik-w-sobota,86389;Waldemar;Sobota;Śląsk Wrocław;Ozimek;1987-05-19;Pomocnik;175;Prawa;63
+/zawodnik-l-musonda,345923;Lubambo;Musonda;Śląsk Wrocław;Lusaka;1995-03-01;Pomocnik;171;Obunożny;75
+/zawodnik-m-praszelik,468247;Mateusz;Praszelik;Śląsk Wrocław;Racibórz;2000-09-26;Pomocnik;184;Prawa;
+/zawodnik-b-pawlowski,137419;Bartlomiej;Pawłowski;Śląsk Wrocław;Zgierz;1992-11-13;Pomocnik;178;Prawa;70
+B. Pawłowski;;;;;;;;;
+/zawodnik-k-maczynski,67091;Krzysztof;Mączyński;Śląsk Wrocław;Kraków;1987-05-23;Pomocnik;175;Prawa;66
+/zawodnik-erik-exposito,472196;Erik;Alexander;Śląsk Wrocław;Santa Cruz de Tenerife;1996-06-23;Napastnik;190;Lewa;83
+E. Exposito;;;;;;;;;
+/zawodnik-d-hladun,302559;Dominik;Hładun;Zagłębie Lubin;Lubin;1995-09-17;Bramkarz;190;Prawa;77
+/zawodnik-d-kalinowski,540235;Dominik;Kalinowski;Zagłębie Lubin;;1998-03-29;Bramkarz;190;Brak;78
+/zawodnik-k-forenc,86572;Konrad;Forenc;Zagłębie Lubin;Oława;1992-07-17;Bramkarz;191;Prawa;91
+/zawodnik-l-guldan,23240;Ľubomír;Guldan;Zagłębie Lubin;Banská Bystrica;1983-01-30;Obrońca;182;Prawa;83
+/zawodnik-s-balic,47361;Saša;Balić;Zagłębie Lubin;Kotor;1990-01-29;Obrońca;184;Lewa;79
+/zawodnik-d-jonczy,480032;Dominik;Jończy;Zagłębie Lubin;Jelenia Góra;1997-05-17;Obrońca;189;Brak;83
+/zawodnik-l-%C5%A0imic,382601;Lorenco;Šimić;Zagłębie Lubin;;1996-07-15;Obrońca;195;Brak;89
+/zawodnik-j-wojcicki,151826;Jakub;Wójcicki;Zagłębie Lubin;Warszawa;1988-07-09;Obrońca;190;Prawa;80
+/zawodnik-j-bednarczyk,441380;Jakub;Jacek;Zagłębie Lubin;Tarnowskie Góry;1999-01-02;Obrońca;184;Brak;70
+/zawodnik-d-oko,484592;Damian;Oko;Zagłębie Lubin;Bolesławiec;1997-01-22;Obrońca;190;Brak;83
+/zawodnik-m-bartolewski,557375;Mateusz;Bartolewski;Zagłębie Lubin;Szczecinek;1998-01-12;Obrońca;187;Brak;76
+/zawodnik-k-kruk,635921;Kamil;Kruk;Zagłębie Lubin;;2000-03-13;Obrońca;;Brak;
+/zawodnik-%C4%90-crnomarkovic,336895;Đorđe;Crnomarković;Zagłębie Lubin;Beograd;1993-09-10;Obrońca;188;Lewa;77
+/zawodnik-s-%C5%BDivec,135914;Saša;Aleksander;Zagłębie Lubin;;1991-04-02;Pomocnik;170;Brak;70
+/zawodnik-e-bashkirov,134653;Evgeni;Bashkirov;Zagłębie Lubin;Sankt-Peterburg;1991-07-06;Pomocnik;175;Obunożny;70
+/zawodnik-k-chodyna,427531;Kacper;Chodyna;Zagłębie Lubin;;1999-05-24;Pomocnik;176;Brak;68
+/zawodnik-f-starzynski,204952;Filip;Starzyński;Zagłębie Lubin;Szczecin;1991-05-27;Pomocnik;184;Prawa;72
+/zawodnik-l-poreba,571155;Łukasz;Poręba;Zagłębie Lubin;Legnica;2000-03-13;Pomocnik;180;Prawa;70
+/zawodnik-j-zubrowski,303760;Jakub;Żubrowski;Zagłębie Lubin;Szczecin;1992-03-21;Pomocnik;181;Prawa;73
+/zawodnik-m-stoch,68727;Miroslav;Stoch;Zagłębie Lubin;Nitra;1989-10-19;Pomocnik;169;Prawa;66
+/zawodnik-j-sypek,634201;Jakub;Sypek;Zagłębie Lubin;;2001-04-07;Pomocnik;180;Brak;72
+/zawodnik-s-mraz,315837;Samuel;Mráz;Zagłębie Lubin;Malacky;1997-05-13;Napastnik;184;Prawa;80
+/zawodnik-p-szysz,443131;Patryk;Szysz;Zagłębie Lubin;Lublin;1998-04-01;Napastnik;177;Prawa;70
+D. Drazic;;;;;;;;;
+/zawodnik-k-podlinski-,476850;Karol;Podliński;Zagłębie Lubin;Żuromin;1997-11-06;Napastnik;194;Prawa;92
+/zawodnik-a-lis,137317;Adrian;Lis;Warta Poznań;Poznań;1992-05-28;Bramkarz;192;Brak;78
+/zawodnik-d-bielica,555492;Daniel;Bielica;Warta Poznań;Zabrze;1999-04-30;Bramkarz;189;Brak;76
+/zawodnik-b-kieliba,153852;Bartosz;Kieliba;Warta Poznań;Krotoszyn;1990-08-01;Obrońca;188;Brak;86
+/zawodnik-a-lawniczak,619126;Aleks;Ławniczak;Warta Poznań;Poznań;1999-05-05;Obrońca;189;Brak;87
+/zawodnik-j-kuzdra,404905;Jakub;Kuzdra;Warta Poznań;Tarnów;1997-12-08;Obrońca;178;Brak;71
+/zawodnik-j-kielb,197755;Jakub;Kiełb;Warta Poznań;Jarocin;1993-07-15;Obrońca;176;Brak;73
+/zawodnik-j-grzesik,304289;Jan;Grzesik;Warta Poznań;Olesno;1994-10-21;Obrońca;178;Prawa;70
+/zawodnik-m-nawrocki,517198;Maik;Nawrocki;Warta Poznań;;2001-02-07;Obrońca;185;Brak;
+M. Wojciechowski;;;;;;;;;
+/zawodnik-m-spychala,387685;Mateusz;Spychała;Warta Poznań;Sieraków;1998-01-28;Obrońca;169;Obunożny;63
+/zawodnik-n-fiedosewicz,450437;Nikodem;Fiedosewicz;Warta Poznań;Grodzisk Wielkopolski;1998-05-30;Obrońca;174;Brak;70
+F. Małek;;;;;;;;;
+/zawodnik-r-ivanov,334459;Robert;Ivanov;Warta Poznań;;1993-07-21;Obrońca;;Brak;
+/zawodnik-m-rybicki,230367;Mariusz;Rybicki;Warta Poznań;Łódź;1993-03-13;Pomocnik;175;Brak;65
+/zawodnik-l-tralka,12870;Łukasz;Trałka;Warta Poznań;Rzeszów;1984-05-11;Pomocnik;186;Prawa;77
+/zawodnik-m-kupczak,139336;Mateusz;Kupczak;Warta Poznań;Żywiec;1992-02-20;Pomocnik;187;Prawa;76
+/zawodnik-m-jakobowski,236531;Michał;Jakóbowski;Warta Poznań;Radziejów;1992-09-08;Pomocnik;170;Brak;65
+/zawodnik-r-janicki,419880;Robert;Janicki;Warta Poznań;Poznań;1997-06-07;Pomocnik;171;Brak;67
+/zawodnik-m-czyzycki,447020;Mateusz;Czyżycki;Warta Poznań;;1998-02-08;Pomocnik;174;Brak;
+/zawodnik-mario-rodriguez,372867;Mario;Rodríguez;Warta Poznań;Barcelona;1997-03-03;Pomocnik;176;Prawa;64
+/zawodnik-k-handzlik,427223;Konrad;Handzlik;Warta Poznań;Wadowice;1998-02-13;Pomocnik;168;Brak;62
+/zawodnik-k-szmyt,606931;Kajetan;Szmyt;Warta Poznań;Poznań;2002-05-29;Pomocnik;189;Brak;87
+M. Rodriguez;;;;;;;;;
+/zawodnik-m-kopczynski,256375;Michal;Kopczynski;Warta Poznań;Warszawa;1992-06-15;Pomocnik;180;Obunożny;70
+/zawodnik-m-sopocko,556278;Mateusz;Sopoćko;Warta Poznań;;1999-06-26;Pomocnik;175;Prawa;65
+/zawodnik-m-zurawski,477416;Maciej;Żurawski;Warta Poznań;Toruń;2000-12-22;Pomocnik;;Brak;
+/zawodnik-m-kuzimski,203266;Mateusz;Kuzimski;Warta Poznań;Tczew;1991-06-26;Napastnik;179;Brak;70
+/zawodnik-g-jaroch,453172;Gracjan;Jaroch;Warta Poznań;Przemyśl;1998-04-15;Napastnik;171;Brak;66
+/zawodnik-a-zre%C4%BEak,286688;Adam;Zreľák;Warta Poznań;Stará Ľubovňa;1994-05-05;Napastnik;183;Lewa;82
+/zawodnik-m-szczepaniak,134380;Mateusz;Szczepaniak;Warta Poznań;Lubin;1991-01-23;Napastnik;184;Prawa;73
+M. Baku;;;;;;;;;
+/zawodnik-f-bednarek,162021;Filip;Bednarek;Lech Poznań;Slupca;1992-09-26;Bramkarz;188;Prawa;81
+/zawodnik-m-van-der-hart,218009;Mickey;van;Lech Poznań;Amstelveen;1994-06-13;Bramkarz;188;Prawa;
+/zawodnik-t-puchacz,427520;Tymoteusz;Puchacz;Lech Poznań;Sulechów;1999-01-23;Obrońca;180;Brak;74
+/zawodnik-b-salamon,63057;Bartosz;Salamon;Lech Poznań;Poznán;1991-05-01;Obrońca;196;Prawa;84
+/zawodnik-a-milic,156563;Antonio;Milić;Lech Poznań;Splît;1994-03-10;Obrońca;190;Lewa;81
+/zawodnik-v-kostevych,218772;Volodymyr;Kostevych;Lech Poznań;Zhovkva;1992-10-23;Obrońca;175;Lewa;62
+/zawodnik-dani-ramirez,262217;Daniel;Ramírez;Lech Poznań;Leganés;1992-06-18;Pomocnik;175;Lewa;70
+/zawodnik-pedro-tiba,207012;Pedro;Miguel;Lech Poznań;Arcos de Valdevez;1988-08-31;Pomocnik;174;Prawa;69
+/zawodnik-j-karlstrom,228893;Jesper;Karlstrom;Lech Poznań;;1995-06-21;Pomocnik;182;Brak;81
+/zawodnik-n-kvekveskiri,89680;Nika;Kvekveskiri;Lech Poznań;Zugdidi;1992-05-29;Pomocnik;184;Prawa;79
+/zawodnik-m-ishak,126521;Mikael;Ishak;Lech Poznań;Stockholm;1993-03-31;Napastnik;184;Obunożny;80
+/zawodnik-n-katcharava,275373;Nika;Kacharava;Lech Poznań;Lefkosia;1994-01-13;Napastnik;198;Prawa;88
+/zawodnik-a-johannsson,78577;Aron;Jóhannsson;Lech Poznań;Mobile;1990-11-10;Napastnik;184;Prawa;70
+Nika Kacharava;;;;;;;;;
+/zawodnik-m-chud%C3%BD,83533;Martin;Chudý;Górnik Zabrze;Považská Bystrica;1989-04-23;Bramkarz;187;Prawa;90
+/zawodnik-b-neugebauer,553550;Bartosz;Neugebauer;Górnik Zabrze;Katowice;2002-02-18;Bramkarz;188;Brak;
+/zawodnik-d-kudla,262400;Dawid;Kudła;Górnik Zabrze;Ruda Śląska;1992-03-21;Bramkarz;189;Brak;84
+/zawodnik-p-wisniewski,545234;Przemyslaw;Wisniewski;Górnik Zabrze;Zabrze;1998-07-27;Obrońca;195;Prawa;88
+/zawodnik-a-gryszkiewicz,536481;Adrian;Gryszkiewicz;Górnik Zabrze;Bytom;1999-12-13;Obrońca;185;Lewa;81
+/zawodnik-e-jan%C5%BEa,143405;Erik;Janža;Górnik Zabrze;Murska Sobota;1993-06-21;Obrońca;175;Lewa;76
+/zawodnik-g-masouras,334524;Giannis;Masouras;Górnik Zabrze;Patras;1996-08-24;Obrońca;181;Prawa;77
+/zawodnik-m-koj,302249;Michał;Koj;Górnik Zabrze;Ruda Slaska;1993-07-28;Obrońca;188;Lewa;81
+/zawodnik-d-pawlowski,450208;Dariusz;Pawłowski;Górnik Zabrze;Zabrze;1999-02-25;Obrońca;187;Brak;71
+/zawodnik-s-evangelou,379055;Stefanos;Evangelou;Górnik Zabrze;Athína;1998-05-12;Obrońca;185;Prawa;75
+/zawodnik-a-paluszek,616882;Aleksander;Paluszek;Górnik Zabrze;Wroclaw;2001-04-09;Obrońca;191;Brak;81
+/zawodnik-k-michalski,555495;Kacper;Michalski;Górnik Zabrze;Kostrzyn nad Odrą;2000-01-03;Obrońca;187;Prawa;76
+/zawodnik-jesus-jimenez,488314;Jesús;Jiménez;Górnik Zabrze;Leganés;1993-11-05;Pomocnik;182;Prawa;
+/zawodnik-a-manneh,469613;Alasana;Manneh;Górnik Zabrze;Manneh;1998-04-08;Pomocnik;170;Lewa;61
+/zawodnik-b-nowak,288292;Bartosz;Nowak;Górnik Zabrze;Radom;1993-08-25;Pomocnik;180;Brak;73
+/zawodnik-r-prochazka,39872;Roman;Procházka;Górnik Zabrze;Trnava;1989-03-14;Pomocnik;184;Prawa;76
+/zawodnik-d-scislak,619070;Daniel;Scislak;Górnik Zabrze;Jastrzębie-Zdrój;2000-03-13;Pomocnik;177;Brak;71
+/zawodnik-k-kubica,555498;Krzysztof;Kubica;Górnik Zabrze;Zywiec;2000-05-25;Pomocnik;192;Obunożny;75
+/zawodnik-f-bainovic,401407;Filip;Bainović;Górnik Zabrze;Požarevac;1996-06-23;Pomocnik;176;Brak;76
+/zawodnik-n-wojtuszek,619743;Norbert;Wojtuszek;Górnik Zabrze;;2001-10-05;Pomocnik;182;Brak;75
+/zawodnik-m-rostkowski,540285;Michal;Rostkowski;Górnik Zabrze;Ruda Śląska;2000-08-10;Pomocnik;174;Brak;56
+/zawodnik-a-sobczyk,320493;Alex;Sobczyk;Górnik Zabrze;;1997-05-20;Napastnik;;Prawa;
+/zawodnik-p-krawczyk,318777;Piotr;Krawczyk;Górnik Zabrze;Siedlce;1994-12-29;Napastnik;187;Brak;70
+/zawodnik-r-boakye,124895;Richmond;Yiadom;Górnik Zabrze;Agogo;1993-01-28;Napastnik;186;Prawa;80
+/zawodnik-p-%C5%A0teinbors,46985;Pāvels;Šteinbors;Jagiellonia Białystok;Rīga;1985-09-21;Bramkarz;191;Prawa;81
+X. Dziekoński;;;;;;;;;
+/zawodnik-d-weglarz,302991;Damian;Węglarz;Jagiellonia Białystok;Bydgoszcz;1996-03-21;Bramkarz;189;Prawa;82
+/zawodnik-h-gostomski,464986;Hubert;Gostomski;Jagiellonia Białystok;Warszawa;1998-02-25;Bramkarz;191;Prawa;82
+/zawodnik-b-augustyn,2620;Błażej;Szczepan;Jagiellonia Białystok;Strzelin;1988-01-26;Obrońca;191;Obunożny;85
+/zawodnik-p-olszewski,427519;Paweł;Olszewski;Jagiellonia Białystok;Wrocław;1999-06-07;Obrońca;178;Brak;68
+/zawodnik-b-%C8%9A%C3%AEru,191962;Bogdan;Ionuț;Jagiellonia Białystok;Constanța;1994-03-15;Obrońca;188;Obunożny;80
+/zawodnik-i-runje,232301;Ivan;Runje;Jagiellonia Białystok;Split;1990-10-09;Obrońca;192;Prawa;87
+/zawodnik-b-wdowik,553424;Bartłomiej;Wdowik;Jagiellonia Białystok;Olkusz;2000-09-25;Obrońca;184;Brak;72
+/zawodnik-a-kadlec,295745;Andrej;Kadlec;Jagiellonia Białystok;Ilava;1996-02-02;Obrońca;175;Prawa;68
+/zawodnik-b-kwiecien,285745;Bartosz;Kwiecień;Jagiellonia Białystok;Starachowice;1994-05-07;Obrońca;189;Prawa;88
+/zawodnik-p-olszewski,303711;Paweł;Olszewski;Jagiellonia Białystok;;1983-08-09;Obrońca;0;Brak;0
+J. Majsterek;;;;;;;;;
+/zawodnik-m-mazur,420545;Myroslav;Mazur;Jagiellonia Białystok;;1998-08-11;Obrońca;190;Brak;75
+B. Nastic;;;;;;;;;
+/zawodnik-t-romanczuk,303685;Taras;Wiktorowicz;Jagiellonia Białystok;Kowel;1991-11-14;Pomocnik;186;Lewa;77
+/zawodnik-m-pospi%C5%A1il,180331;Martin;Pospíšil;Jagiellonia Białystok;Bělkovice-Lašťany;1991-06-26;Pomocnik;178;Prawa;78
+/zawodnik-jesus-imaz,147774;Jesús;Imaz;Jagiellonia Białystok;Lleida;1990-09-26;Pomocnik;179;Prawa;70
+/zawodnik-m-makuszewski,137418;Maciej;Makuszewski;Jagiellonia Białystok;Grajewo;1989-09-29;Pomocnik;176;Prawa;70
+/zawodnik-p-mystkowski,344159;Przemysław;Mystkowski;Jagiellonia Białystok;Białystok;1998-04-25;Pomocnik;174;Brak;62
+/zawodnik-t-p%C5%99ikryl,134091;Tomáš;Přikryl;Jagiellonia Białystok;Olomouc;1992-07-04;Pomocnik;177;Prawa;69
+/zawodnik-b-bida,517235;Bartosz;Bida;Jagiellonia Białystok;Rzeszów;2001-02-21;Pomocnik;175;Brak;66
+/zawodnik-a-borysiuk,31061;Ariel;Borysiuk;Jagiellonia Białystok;Biała Podlaska;1991-07-29;Pomocnik;180;Prawa;70
+/zawodnik-f-%C4%8Cernych,143076;Fedor;Černych;Jagiellonia Białystok;Moskva;1991-05-21;Pomocnik;183;Obunożny;81
+/zawodnik-m-bortniczuk,634141;Maciej;Bortniczuk;Jagiellonia Białystok;Białystok;2001-09-06;Pomocnik;180;Brak;73
+F. Ferreiroa;;;;;;;;;
+/zawodnik-k-wrzesinski,286511;Konrad;Wrzesiński;Jagiellonia Białystok;Pułtusk;1993-09-10;Pomocnik;177;Prawa;65
+/zawodnik-k-twardek,320094;Kristopher;Twardek;Jagiellonia Białystok;;1997-03-08;Pomocnik;;Brak;
+/zawodnik-m-ko%C5%A1%C5%A5al,353701;Martin;Košťál;Jagiellonia Białystok;Nové Zámky;1996-02-23;Pomocnik;179;Prawa;65
+/zawodnik-fernan-ferreiro,242010;Fernán;Ferreiroa;Jagiellonia Białystok;Nigrán;1995-02-10;Pomocnik;;Brak;
+/zawodnik-j-puljic,220364;Jakov;Puljić;Jagiellonia Białystok;Vinkovci;1993-08-04;Napastnik;187;Obunożny;74
+/zawodnik-m-mas,618135;Maciej;Daniel;Jagiellonia Białystok;;2001-05-15;Napastnik;;Brak;
+K. Toporkiewicz;;;;;;;;;
+/zawodnik-k-niemczycki,491202;Karol;Niemczycki;Cracovia;Krakow;1999-07-05;Bramkarz;189;Obunożny;84
+J. Grzywaczewski;;;;;;;;;
+/zawodnik-a-wilk,406772;Adam;Wilk;Cracovia;Kraków;1997-11-21;Bramkarz;189;Brak;76
+/zawodnik-l-hro%C5%A1%C5%A1o,35340;Lukáš;Hroššo;Cracovia;Nitra;1987-04-19;Bramkarz;196;Obunożny;91
+/zawodnik-c-r%C3%A2p%C4%83,69393;Cornel;Emilian;Cracovia;Galaţi;1990-01-16;Obrońca;180;Prawa;72
+/zawodnik-d-szymonowicz,255007;Dawid;Szymonowicz;Cracovia;Lidzbark Warmiński;1995-07-07;Obrońca;184;Prawa;67
+/zawodnik-diego,78872;Diego;Gustavo;Cracovia;Serra Negra;1992-05-21;Obrońca;171;Prawa;71
+/zawodnik-ivan-marquez,352663;Iván;Márquez;Cracovia;Marbella;1994-06-09;Obrońca;191;Prawa;80
+/zawodnik-d-jablonsk%C3%BD,80583;David;Jablonský;Cracovia;Sokolov;1991-10-08;Obrońca;190;Brak;83
+/zawodnik-m-rodin,435046;Matej;Rodin;Cracovia;;1996-02-13;Obrońca;195;Obunożny;
+/zawodnik-m-sip%C4%BEak,318999;Michal;Sipľak;Cracovia;Bardejov;1996-02-02;Obrońca;184;Brak;80
+/zawodnik-k-pestka,447950;Kamil;Pestka;Cracovia;Kraków;1998-08-22;Obrońca;188;Lewa;67
+/zawodnik-p-zaucha,468252;Patryk;Zaucha;Cracovia;Tarnów;2000-04-19;Obrońca;175;Brak;
+O. Wójcik;;;;;;;;;
+M. Pieńczak;;;;;;;;;
+/zawodnik-d-pitula,623493;Dorian;Pituła;Cracovia;Kraków;2000-04-01;Obrońca;176;Brak;
+/zawodnik-m-gardawski,39383;Michał;Gardawski;Cracovia;Köln;1990-09-25;Obrońca;177;Prawa;75
+/zawodnik-o-dityatjev,251459;Oleksii;Dytiatiev;Cracovia;Nova Kakhovka;1988-11-07;Obrońca;196;Brak;88
+/zawodnik-luis-rocha,257640;Luís;Augusto;Cracovia;Vila Nova de Famalicão;1993-06-27;Obrońca;177;Lewa;70
+/zawodnik-p-van-amersfoort,289816;Pelle;van;Cracovia;Heemskerk;1996-04-01;Pomocnik;193;Prawa;77
+/zawodnik-s-hanca,125582;Sergiu;Cătălin;Cracovia;Târgu Mureș;1992-04-04;Pomocnik;182;Prawa;80
+/zawodnik-f-loshaj,433976;Florian;Loshaj;Cracovia;Skënderaj;1996-08-13;Pomocnik;174;Obunożny;71
+/zawodnik-m-dimun,353407;Milan;Dimun;Cracovia;Košice;1996-09-19;Pomocnik;186;Brak;76
+/zawodnik-thiago,532494;Thiago;Rodrigues;Cracovia;Campo Grande;1997-03-18;Pomocnik;177;Brak;60
+/zawodnik-i-fiolic,273296;Ivan;Fiolić;Cracovia;Zagreb;1996-04-29;Pomocnik;175;Lewa;73
+/zawodnik-d-pik,535303;Daniel;Pik;Cracovia;Pułtusk;2000-07-20;Pomocnik;177;Prawa;
+I. Fiolic;;;;;;;;;
+B. Kafel;;;;;;;;;
+J. Myszor;;;;;;;;;
+Matheus Santos;;;;;;;;;
+/zawodnik-m-supryn,572886;Mateusz;Supryn;Cracovia;Lublin;1999-04-04;Pomocnik;180;Brak;
+/zawodnik-r-kanach,448834;Radosław;Kanach;Cracovia;Rzeszów;1999-04-03;Pomocnik;181;Prawa;73
+/zawodnik-vinicius-ferreira,572965;Vinícius;Ferreira;Cracovia;;1999-01-31;Pomocnik;;Brak;
+D. Sadikovic;;;;;;;;;
+R. Ożóg;;;;;;;;;
+/zawodnik-s-lusiusz,496146;Sylwester;Lusiusz;Cracovia;Brzozów;1999-09-18;Pomocnik;180;Brak;69
+/zawodnik-m-%C3%81lvarez,87937;Marcos;Alvarez;Cracovia;Gelnhausen;1991-09-30;Napastnik;179;Prawa;77
+/zawodnik-rivaldinho,328118;Rivaldo;Vitor;Cracovia;São Paulo;1995-04-29;Napastnik;186;Prawa;85
+/zawodnik-t-vestenick%C3%BD,295747;Tomáš;Vestenický;Cracovia;Topoľčany;1996-04-06;Napastnik;175;Prawa;74
+/zawodnik-f-piszczek,354379;Filip;Piszczek;Cracovia;Nowy Targ;1995-05-26;Napastnik;188;Prawa;77
+J. Gut;;;;;;;;;
+/zawodnik-rubio,324223;Rubén;López;Cracovia;Alicante;1995-06-24;Napastnik;184;Brak;69
+T. Bala;;;;;;;;;
+/zawodnik-s-strozik,526748;Sebastian;Strózik;Cracovia;Opole;1999-05-15;Napastnik;179;Brak;
+/zawodnik-b-%C4%8Ce%C4%8Daric,262295;Bojan;Čečarić;Cracovia;Nova Pazova;1993-10-10;Napastnik;185;Brak;72
+P. Kapek;;;;;;;;;
+/zawodnik-k-kaminski,197448;Krzysztof;Kamiński;Wisła Płock;Nowy Dwór Mazowiecki;1990-11-26;Bramkarz;191;Prawa;81
+/zawodnik-b-zynel,387677;Bartłomiej;Żynel;Wisła Płock;Białystok;1998-04-09;Bramkarz;187;Lewa;79
+/zawodnik-b-gradecki,490334;Bartłomiej;Gradecki;Wisła Płock;Płock;1999-12-26;Bramkarz;194;Brak;91
+/zawodnik-a-uryga,160325;Alan;Uryga;Wisła Płock;Kraków;1994-02-19;Obrońca;191;Prawa;85
+/zawodnik-%C3%81ngel-garcia,262208;Ángel;García;Wisła Płock;Madrid;1993-02-03;Obrońca;184;Lewa;85
+/zawodnik-d-michalski,446984;Damian;Michalski;Wisła Płock;Belchatow;1998-05-17;Obrońca;191;Prawa;90
+/zawodnik-d-zbozien,124191;Damian;Zbozień;Wisła Płock;Limanowa;1989-04-25;Obrońca;186;Prawa;80
+/zawodnik-p-zuk,465508;Paweł;Żuk;Wisła Płock;Gdansk;2001-01-29;Obrońca;177;Prawa;75
+/zawodnik-j-rzezniczak,12608;Jakub;Rzeźniczak;Wisła Płock;Łódź;1986-10-26;Obrońca;183;Prawa;82
+A. Pawlak;;;;;;;;;
+/zawodnik-m-lewandowski,196600;Mateusz;Lewandowski;Wisła Płock;Plock;1993-03-18;Obrońca;182;Lewa;72
+/zawodnik-b-sielewski,43496;Bartlomiej;Sielewski;Wisła Płock;Płock;1984-08-09;Obrońca;187;Prawa;83
+/zawodnik-p-tomasik,65016;Piotr;Tomasik;Wisła Płock;Krakow;1987-10-31;Obrońca;177;Lewa;72
+M. Obradovic;;;;;;;;;
+/zawodnik-f-lesniak,276349;Filip;Lesniak;Wisła Płock;Kosice;1996-05-14;Pomocnik;176;Lewa;70
+/zawodnik-m-szwoch,212336;Mateusz;Szwoch;Wisła Płock;Starogard Gdański;1993-03-19;Pomocnik;173;Prawa;60
+/zawodnik-d-rasak,261092;Damian;Rasak;Wisła Płock;Torun;1996-02-08;Pomocnik;184;Prawa;77
+/zawodnik-d-lagator,216579;Dušan;Lagator;Wisła Płock;Cetinje;1994-03-29;Pomocnik;190;Prawa;82
+/zawodnik-t-gjertsen,328070;Torgil;Øwre;Wisła Płock;Melhus;1992-03-12;Pomocnik;175;Brak;74
+/zawodnik-h-adamczyk,319433;Hubert;Adamczyk;Wisła Płock;Bydgoszcz;1998-02-23;Pomocnik;180;Prawa;70
+/zawodnik-p-pyrdol,493286;Piotr;Pyrdoł;Wisła Płock;Łódź;1999-04-27;Pomocnik;;Prawa;
+/zawodnik-g-merebashvili,40203;Giorgi;Merebashvili;Wisła Płock;Tbilisi;1986-08-15;Pomocnik;179;Prawa;75
+/zawodnik-w-szumilas,429529;Wojciech;Szumilas;Wisła Płock;Ledziny;1996-11-07;Pomocnik;176;Lewa;68
+/zawodnik-r-wolski,157125;Rafał;Wolski;Wisła Płock;Kozienice;1992-11-10;Pomocnik;180;Prawa;70
+K. Kondracki;;;;;;;;;
+F. Gerbowski;;;;;;;;;
+/zawodnik-d-kocyla,619999;Dawid;Kocyła;Wisła Płock;Bełchatów;2002-07-23;Napastnik;180;Brak;66
+/zawodnik-c-sheridan,89487;Cillian;Sheridan;Wisła Płock;Cavan;1989-02-23;Napastnik;196;Lewa;87
+/zawodnik-p-tuszynski,86385;Patryk;Tuszyński;Wisła Płock;Syców;1989-12-13;Napastnik;184;Prawa;77
+/zawodnik-l-%C5%A0u%C5%A1njara,316272;Luka;Susnjara;Wisła Płock;;1997-04-04;Napastnik;;Brak;
+K. Rogoziński;;;;;;;;;
+/zawodnik-m-lewandowski,454115;Mateusz;Stefan;Wisła Płock;Poznań;1999-03-04;Napastnik;187;Brak;83
+/zawodnik-m-lis,408090;Mateusz;Lis;Wisła Kraków;Żary;1997-02-27;Bramkarz;192;Prawa;83
+/zawodnik-m-buchalik,67328;Michal;Buchalik;Wisła Kraków;Rybnik;1989-02-03;Bramkarz;190;Prawa;83
+/zawodnik-k-broda,555768;Kamil;Broda;Wisła Kraków;Kraków;2001-07-19;Bramkarz;190;Prawa;81
+/zawodnik-m-sadlok,12731;Maciej;Sadlok;Wisła Kraków;Oświęcim;1989-06-29;Obrońca;186;Lewa;80
+/zawodnik-d-szot,595791;Dawid;Szot;Wisła Kraków;Kraków;2001-04-29;Obrońca;;Brak;
+/zawodnik-a-mehremic,217255;Adi;Mehremić;Wisła Kraków;Sarajevo;1992-04-26;Obrońca;189;Lewa;85
+/zawodnik-l-burliga,75141;Łukasz;Burliga;Wisła Kraków;Sucha Beskidzka;1988-05-10;Obrońca;186;Prawa;81
+/zawodnik-m-frydrych,84607;Michal;Frydrych;Wisła Kraków;Hustopeče nad Bečvou;1990-02-27;Obrońca;186;Prawa;83
+/zawodnik-d-hoyokowalski,608170;Daniel;Hoyo-Kowalski;Wisła Kraków;Barcelona;2003-07-12;Obrońca;189;Brak;75
+K. Gruszkowski;;;;;;;;;
+/zawodnik-s-kone,171713;Souleymane;Koné;Wisła Kraków;Grand-Bassam;1996-05-01;Obrońca;192;Prawa;82
+/zawodnik-u-radakovic,189114;Uroš;Radaković;Wisła Kraków;Beograd;1994-03-31;Obrońca;194;Lewa;89
+/zawodnik-d-mawutor,287391;David;Mawutor;Wisła Kraków;;1992-04-12;Obrońca;181;Obunożny;77
+/zawodnik-s-szota,490409;Serafin;Szota;Wisła Kraków;Namysłów;1999-03-04;Obrońca;186;Brak;
+A. Mehremic;;;;;;;;;
+/zawodnik-m-lis,303561;Mateusz;Lis;Wisła Kraków;;1993-01-22;Obrońca;0;Brak;0
+/zawodnik-g-zhukov,241630;Georgiy;Zhukov;Wisła Kraków;Semej;1994-11-19;Pomocnik;172;Prawa;76
+/zawodnik-s-savic,157155;Stefan;Savić;Wisła Kraków;Salzburg;1994-01-09;Pomocnik;169;Obunożny;65
+/zawodnik-v-basha,37273;Vullnet;Basha;Wisła Kraków;Lausanne;1990-07-11;Pomocnik;174;Prawa;71
+/zawodnik-chuca,423634;Víctor;Moya;Wisła Kraków;Jacarilla;1997-06-10;Pomocnik;182;Prawa;75
+/zawodnik-j-blaszczykowski,16524;Jakub;Błaszczykowski;Wisła Kraków;Truskolasy;1985-12-14;Pomocnik;175;Prawa;71
+/zawodnik-n-kuveljic,570351;Nikola;Kuveljić;Wisła Kraków;Belgrade;1997-04-06;Pomocnik;194;Prawa;
+/zawodnik-p-plewka,528604;Patryk;Plewka;Wisła Kraków;Libiąż;2000-01-02;Pomocnik;174;Prawa;66
+/zawodnik-r-boguski,12781;Rafał;Boguski;Wisła Kraków;Ostroleka;1984-06-09;Pomocnik;173;Prawa;69
+K. Duda;;;;;;;;;
+S. Savic;;;;;;;;;
+Chuca;;;;;;;;;
+/zawodnik-jean-carlos,372443;Jean;Carlos;Wisła Kraków;Prata;1996-05-10;Napastnik;185;Prawa;76
+/zawodnik-y-yeboah,405512;Yaw;Yeboah;Wisła Kraków;Accra;1997-03-28;Napastnik;175;Prawa;70
+/zawodnik-f-beciraj,39679;Fatos;Bećiraj;Wisła Kraków;Peć;1988-05-05;Napastnik;188;Prawa;82
+/zawodnik-a-buksa,595792;Aleksander;Buksa;Wisła Kraków;Kraków;2003-01-15;Napastnik;188;Lewa;73
+T. Madembo;;;;;;;;;
+/zawodnik-f-brown-forbes,149976;Felicio;Anando;Wisła Kraków;Berlin;1991-08-28;Napastnik;189;Obunożny;82
+/zawodnik-%C5%BD-medved,378681;Žan;Medved;Wisła Kraków;;1999-06-14;Napastnik;;Brak;
+/zawodnik-r-straczek,485344;Rafał;Strączek;Stal Mielec;Jaroslaw;1999-02-12;Bramkarz;189;Brak;75
+/zawodnik-m-dudek,619114;Mateusz;Dudek;Stal Mielec;Kolbuszowa;2002-12-14;Bramkarz;182;Brak;71
+/zawodnik-d-primel,119709;Damian;Primel;Stal Mielec;Lubin;1992-04-16;Bramkarz;191;Brak;87
+/zawodnik-m-gliwa,12428;Michal;Gliwa;Stal Mielec;Rzeszow;1988-04-08;Bramkarz;188;Prawa;77
+/zawodnik-k-koscielny,303747;Kamil;Kościelny;Stal Mielec;Mielec;1991-08-04;Obrońca;185;Prawa;83
+/zawodnik-k-getinger,43574;Krystian;Getinger;Stal Mielec;Mielec;1988-08-29;Obrońca;185;Lewa;77
+/zawodnik-m-zyro,423921;Mateusz;Żyro;Stal Mielec;Warszawa;1998-10-28;Obrońca;187;Brak;78
+/zawodnik-m-flis,160303;Marcin;Flis;Stal Mielec;Bychawa;1994-02-10;Obrońca;185;Brak;75
+/zawodnik-m-sus,46328;Martin;Sus;Stal Mielec;Benesov;1990-03-15;Obrońca;184;Brak;68
+/zawodnik-w-blyszko,497411;Wojciech;Błyszko;Stal Mielec;Drawsko Pomorskie;1999-10-05;Obrońca;196;Prawa;83
+/zawodnik-w-lisowski,191643;Wojciech;Lisowski;Stal Mielec;Stargard Szczeciński;1992-02-10;Obrońca;186;Brak;74
+/zawodnik-s-stasik,618153;Szymon;Stasik;Stal Mielec;Strzyzow;1999-02-04;Obrońca;176;Brak;72
+/zawodnik-b-chorbadzhiyski,259265;Bozhidar;Chorbadzhiyski;Stal Mielec;;1995-08-08;Obrońca;;Brak;
+/zawodnik-l-seweryn,572577;Łukasz;Seweryn;Stal Mielec;Jaworzno;2002-03-29;Obrońca;179;Brak;69
+/zawodnik-a-granlund,128076;Eddie;Albin;Stal Mielec;Parainen;1989-09-01;Obrońca;178;Prawa;
+J. de Amo;;;;;;;;;
+A. Skrzyniak;;;;;;;;;
+/zawodnik-g-tomasiewicz,273876;Grzegorz;Tomasiewicz;Stal Mielec;Jaworzno;1996-05-05;Pomocnik;167;Brak;59
+/zawodnik-m-matras,139230;Mateusz;Matras;Stal Mielec;Ornontowice;1991-01-23;Pomocnik;193;Prawa;87
+/zawodnik-a-prokic,151960;Andreja;Prokić;Stal Mielec;Kragujevac;1989-04-09;Pomocnik;178;Brak;72
+/zawodnik-m--mak,137305;Mateusz;Mak;Stal Mielec;Sucha Beskidzka;1991-11-14;Pomocnik;173;Prawa;60
+/zawodnik-m-domanski,303755;Maciej;Domański;Stal Mielec;Rzeszów;1990-09-05;Pomocnik;167;Prawa;59
+/zawodnik-m-urbanczyk,302571;Maciej;Urbańczyk;Stal Mielec;Mikołów;1995-04-02;Pomocnik;173;Brak;66
+/zawodnik-p-forsell,31766;Petteri;Forsell;Stal Mielec;Kokkola;1990-10-16;Pomocnik;170;Obunożny;77
+/zawodnik-r-dadok,464334;Robert;Dadok;Stal Mielec;Cieszyn;1996-12-24;Pomocnik;182;Prawa;70
+/zawodnik-d-pawlowski,427529;Damian;Pawłowski;Stal Mielec;Szczecin;1999-01-27;Pomocnik;185;Prawa;72
+A. Prokic;;;;;;;;;
+M. Chmielowiec;;;;;;;;;
+A. Kramarz;;;;;;;;;
+/zawodnik-l-zjawinski,509897;Łukasz;Zjawiński;Stal Mielec;Pszczyna;2001-07-11;Napastnik;186;Brak;77
+/zawodnik-k-sadlocha,551990;Kacper;Sadłocha;Stal Mielec;Staszow;2002-12-01;Napastnik;173;Obunożny;67
+/zawodnik-a-kolev,170992;Aleksandar;Kolev;Stal Mielec;Sofia;1992-12-08;Napastnik;191;Lewa;81
+/zawodnik-b-bajorek,619115;Bartosz;Bajorek;Stal Mielec;Staszów;2004-01-22;Napastnik;177;Brak;70
+/zawodnik-m-jankowski,137438;Maciej;Jankowski;Stal Mielec;Warszawa;1990-01-04;Napastnik;181;Prawa;68
+/zawodnik-m-pola%C4%8Dek,135417;Martin;Polacek;Podbeskidzie;Presov;1990-04-02;Bramkarz;198;Prawa;95
+/zawodnik-m-rundic,182213;Milan;Rundić;Podbeskidzie;Beograd;1992-03-29;Obrońca;188;Lewa;80
+/zawodnik-g-kocsis,259877;Gergő;Bence;Podbeskidzie;Budapest;1994-03-07;Obrońca;188;Prawa;
+/zawodnik-d-bashlay,85108;Dmytro;Bashlay;Podbeskidzie;Kyiv;1990-04-25;Obrońca;190;Prawa;77
+/zawodnik-f-modelski,147152;Filip;Modelski;Podbeskidzie;Gdynia;1992-09-28;Obrońca;180;Brak;73
+/zawodnik-k-osyra,217673;Kornel;Osyra;Podbeskidzie;Brzeg Dolny;1993-02-07;Obrońca;190;Prawa;75
+P. Mamic;;;;;;;;;
+M. Batelt;;;;;;;;;
+M. Rundic;;;;;;;;;
+/zawodnik-g-kocsis,204149;Gergo;Kocsis;Podbeskidzie;;1994-03-07;Obrońca;;Brak;
+/zawodnik-r-janicki,137493;Rafał;Janicki;Podbeskidzie;Szczecin;1992-07-05;Obrońca;188;Prawa;83
+D. Bashlai;;;;;;;;;
+/zawodnik-d-niepsuj,308206;David;Niepsuj;Podbeskidzie;Wuppertal;1995-08-16;Obrońca;183;Prawa;76
+/zawodnik-k-danielak,182447;Karol;Danielak;Podbeskidzie;Jarocin;1991-09-29;Pomocnik;170;Prawa;66
+/zawodnik-t-nowak,12560;Tomasz;Nowak;Podbeskidzie;Koscian;1985-10-30;Pomocnik;171;Lewa;72
+/zawodnik-m-rzuchowski,262401;Michał;Rzuchowski;Podbeskidzie;Szczecin;1993-12-27;Pomocnik;176;Brak;74
+/zawodnik-l-sierpina,138766;Łukasz;Sierpina;Podbeskidzie;Złotoryja;1988-03-27;Pomocnik;174;Brak;68
+/zawodnik-j-bieronski,605805;Jakub;Bieroński;Podbeskidzie;Bielsko-Biala;2003-04-18;Pomocnik;187;Brak;75
+/zawodnik-d-ubbink,258083;Desley;Ubbink;Podbeskidzie;Roosendaal;1993-06-15;Pomocnik;182;Prawa;73
+/zawodnik-m-sitek,509870;Maksymilian;Sitek;Podbeskidzie;Rzeszów;2000-12-04;Pomocnik;174;Brak;66
+/zawodnik-m-marzec,450304;Mateusz;Marzec;Podbeskidzie;Ozimek;1994-08-13;Pomocnik;178;Brak;70
+M. Tulio;;;;;;;;;
+/zawodnik-d-frelek,624912;Dominik;Frelek;Podbeskidzie;;2001-10-11;Pomocnik;;Brak;
+/zawodnik-s-myakushko,197026;Serhii;Myakushko;Podbeskidzie;Kyiv;1993-04-15;Pomocnik;170;Obunożny;70
+/zawodnik-j-hora,87676;Jakub;Hora;Podbeskidzie;;1991-02-23;Pomocnik;176;Prawa;65
+/zawodnik-a-rakowski,140899;Adrian;Rakowski;Podbeskidzie;Zagan;1990-10-07;Pomocnik;181;Brak;71
+M. Studnicki;;;;;;;;;
+/zawodnik-k-bilinski,68747;Kamil;Biliński;Podbeskidzie;Wrocław;1988-01-23;Napastnik;181;Prawa;77
+/zawodnik-m-roginic-,317631;Marko;Roginić;Podbeskidzie;Bjelovar;1995-09-05;Napastnik;188;Brak;80
+I. Martin;;;;;;;;;
+M. Roginic;;;;;;;;;
+B. Kręcichwost;;;;;;;;;
+K. Biliński;;;;;;;;;
+/zawodnik-ivan-martin,370309;Iván;Martín;Podbeskidzie;Villaverde del Río;1995-03-04;Napastnik;187;Brak;76
