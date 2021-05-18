@@ -2,7 +2,7 @@
 
 several program that allows to scrape data about football league Ekstraklasa. Data such as players, teams, matches and stuff like that. Data are scraped from polish website meczyki.pl
 
-## Description
+## Description Scraping
 
 This is my school project for subject named data analysis and visualization. In the beginning i have collected data from polish website meczyki.pl. Collected data are divided into four files: 
 * Stats.csv       Information about statistics like ball possession, goal attempts and so on. 
@@ -47,6 +47,27 @@ view of scraped data:
 
 ![](imagesRedme/playersScraped.png)
 
+## Description Analysis
+In this project i am attempting to create several interactive dashboards. 
+
+Already i have created two of them. 
+
+First one is simple histogram representing goals statistics:
+
+![](imagesRedme/DashBoard1.png)
+
+Second one show specific statistics about chosen team:
+
+![](imagesRedme/DashBoard2_1.png)
+
+![](imagesRedme/DashBoard2_2.png)
+
+![](imagesRedme/DashBoard2_3.png)
+
+![](imagesRedme/DashBoard2_4.png)
+
+
+
 
 ## Description Summary
 There are total of 3 scripts written using Python. Two dedicated for scraping, and third for data analysis. 
@@ -54,14 +75,23 @@ There are total of 3 scripts written using Python. Two dedicated for scraping, a
 ## Getting Started
 
 ### Dependencies
-I am using Python -> Jupyter Notebook and libraries:
+For scraping I am using Python -> Jupyter Notebook and libraries:
 
 * pandas
 * numpy
 * requests
 * bs4 (BeautifulSoup)
 * datetime
-* And for analysis i am planning to use dash and plotly
+
+For data analysis I am using Python -> JupyterLab and libraries:
+* pandas
+* dash
+* plotly
+* dash
+* dash_html_components
+* dash_core_components
+* dash_bootstrap_components
+* jupyter_dash
 
 ## Authors
 Michał Sir
