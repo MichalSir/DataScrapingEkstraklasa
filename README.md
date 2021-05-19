@@ -58,15 +58,41 @@ First one is simple histogram representing goals statistics:
 
 Second one show specific statistics about chosen team:
 
+Filters:
+
 ![](imagesRedme/DashBoard2_1.png)
+
+Cumulative goals graph
 
 ![](imagesRedme/DashBoard2_2.png)
 
+Ball Possesion
+
 ![](imagesRedme/DashBoard2_3.png)
+
+All shots, and shots on target
 
 ![](imagesRedme/DashBoard2_4.png)
 
+Fauls, yellow cards and free kick
 
+![](imagesRedme/DashBoard2_5.png)
+
+Each stat divided by player position
+
+![](imagesRedme/DashBoard3_1.png)
+
+Scored goals divided by leg
+
+![](imagesRedme/DashBoard3_2.png)
+
+Summed up stats
+
+![](imagesRedme/DashBoard3_3.png)
+
+Tabel with all players
+
+![](imagesRedme/DashBoard3_4.png)
 
 
 ## Description Summary
